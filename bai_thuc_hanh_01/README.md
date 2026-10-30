@@ -1,7 +1,7 @@
-# Bài thực hành 01
-
-## Danh sách bài tập
-
-- [ ] Bài 01
-- [ ] Bài 02
-- [ ] Bài 03
+├── bai_thuc_hanh_01/                  ← Bài thực hành 01
+│   ├── README.md                      ← Danh sách bài con, trạng thái
+│   ├── bai_01_.../
+│   │   ├── de_bai.md
+│   │   ├── main.cpp
+│   │   ├── *.png
+│   │   └── README.md
